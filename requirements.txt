@@ -1,0 +1,33 @@
+# Data manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+catboost
+lightgbm
+
+# Deep Learning
+tensorflow
+keras
+torch
+
+# Model saving / utilities
+joblib
+pickle-mixin
+
+# Web deployment / API
+flask
+fastapi
+uvicorn
+
+# Others / utils
+jupyter
+notebook
+tqdm
