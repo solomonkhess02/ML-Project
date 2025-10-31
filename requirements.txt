@@ -31,3 +31,6 @@ uvicorn
 jupyter
 notebook
 tqdm
+dill
+
+#pip install -r requirements.txt
